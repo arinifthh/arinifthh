@@ -1,5 +1,9 @@
 ## Hi There! 👋
-I'm **Nur Arini Fatihah Binti Mohd Sabir**, a **3rd-year Computer Science (Data Engineering) student at UTM JB**. Passionate about **Data Engineering, Web & Mobile Development, and Cloud Technologies**.
+I'm Arini Fatihah, a 3rd-year Data Engineering student at UTM JB. Through my coursework, I’ve gained hands-on experience in machine learning, data analytics, web development, and cloud technologies (SAP).
+
+But what really excites me is data, turning raw numbers into stories. I enjoy designing dashboards, uncovering insights from messy datasets, and experimenting with new data tools (if only there were more hours in a day!).
+
+Always learning, always curious.
 
 Check out some of my work and projects <br>
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://arinifthh.github.io/portfolio/)

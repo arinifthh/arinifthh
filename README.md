@@ -1,7 +1,7 @@
 ## Hi There! 👋
 Arini here! I'm currently a 3rd-year Data Engineering student at UTM JB. 
 
-Through my coursework, I’ve gained hands-on experience in machine learning, data analytics, web development, and cloud technologies (SAP).
+Through my coursework, I’ve gained hands-on experience in machine learning, data analytics, web development, and cloud technologies.
 
 But what really excites me is data, turning raw numbers into stories. I enjoy designing dashboards, uncovering insights from messy datasets, and experimenting with new data tools (if only there were more hours in a day!).
 
